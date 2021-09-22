@@ -6,7 +6,7 @@
 }
 
 body{
-    overflow: hidden;
+    overflow-y: hidden;
     overflow-x: hidden;
 }
 
@@ -16,6 +16,8 @@ section{
     align-items: center;
     height: 100vh;
     background: #034071;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 section .runway{
